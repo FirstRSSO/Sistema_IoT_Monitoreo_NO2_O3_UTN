@@ -2,7 +2,7 @@
 
 # IoT System for NO₂ and O₃ Monitoring with Embedded Artificial Intelligence
 
-**Undergraduate Thesis — Universidad Técnica del Norte (UTN)**
+**Universidad Técnica del Norte (UTN)**
 Ibarra, Ecuador
 
 [![Arduino](https://img.shields.io/badge/Arduino-Mega%202560-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/)
