@@ -441,7 +441,7 @@ The `Diagramas/` folder contains the editable schematics of this work in **draw.
 
 ```bibtex
 @thesis{monitoreo_no2_o3_utn,
-  author      = {Lastname, Firstname},
+  author      = {Negrete, Michael},
   title       = {IoT system for NO2 and O3 monitoring with embedded artificial intelligence},
   type        = {Undergraduate thesis},
   institution = {Universidad Tecnica del Norte},
