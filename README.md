@@ -23,7 +23,7 @@ This repository contains the full development of a **low-cost air quality monito
 
 The system addresses three common limitations of conventional monitoring stations:
 
-1. **Cost and coverage** — the design relies on low-cost instrumentation built around an Arduino Mega 2560 and a Raspberry Pi Zero 2 W.
+1. **Cost and coverage** — the design relies on low-cost instrumentation built around an Mega 2560 and a Raspberry Pi Zero 2 W.
 2. **Connectivity dependence** — classification runs *at the edge*, so no cloud round trip is required to obtain a result, and transmission uses a redundant GPRS → Wi-Fi scheme with local storage and deferred retransmission (*store & forward*).
 3. **Access to information** — data is exposed through a cross-platform web application with an interactive map, historical series, CSV export, and bilingual support (Spanish/English).
 
